@@ -1,16 +1,17 @@
-# Android Lab 2020 第一学期 值班登记
+# Android Lab 2020 第二学期 值班登记
 
 ## 说明
 
-**强烈建议先自学Git再完成此任务**
+> 强烈建议先自学Git再完成此任务
+> 禁止他人代提交
 
-1. 请打开 https://androidlab.kenvix.com/ 生成并导出值日表
-2. 注册自己的GitHub账号
-2. 点击 `fork` 将这个仓库fork
-3. 使用 `git clone` 命令将fork的自己的仓库克隆到本地
+1. 请打开 [课表生成网址](https://androidlab.kenvix.com/) 生成并导出值日表
+2. 注册自己的 [GitHub](https://github.com) 账号
+2. 点击 `fork` 将**这个**仓库fork
+3. 使用 `git clone` 命令将fork的**自己的仓库**克隆到本地
 4. 将导出的课表文件 `200xxxxx-姓名.json` 拷贝到本地库内
 5. 使用 `git add <文件名>`、`git commit -m "<提交的信息>"`、`git push origin 2020` 更改到自己的GitHub仓库
-6. 发起 Pull Request 到本仓库
+6. 发起 Pull Request 到**本仓库**
 
 ## 拓展
 
